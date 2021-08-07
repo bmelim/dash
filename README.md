@@ -1,5 +1,3 @@
-# Read on my [blog](https://brainbits.in/blog/crossbrowser-dashboard)
-
 ## Dashboard for cross-browser use
 
 A personal dashboard with bookmarks and search.
